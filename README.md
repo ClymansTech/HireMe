@@ -46,9 +46,9 @@ To tailor this page to your own professional background:
 
 Open index.html.
 
-Find the &lt;section&gt; tags where your biography or skills are listed.
+Find the <section> tags where your biography or skills are listed.
 
-Update the text within the &lt;h1&gt;, &lt;h2&gt;, and &lt;p&gt; tags.
+Update the text within the <h1>, <h2>, and <p> tags.
 
 If you have a contact form, ensure the &lt;form&gt; action points to your preferred service (like Formspree or Netlify).
 
@@ -56,8 +56,6 @@ If you have a contact form, ensure the &lt;form&gt; action points to your prefer
 If you have questions about this project or want to collaborate:
 
 GitHub: ClymansTech
-
-Live Site: Visit HireMe
 
 📄 License
 This project is open-source and available under the MIT License.
